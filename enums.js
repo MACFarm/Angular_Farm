@@ -1,5 +1,12 @@
 /* 
-### **Fundamentos de JavaScript**
+Modules, components and services are classes that use decorators. These decorators mark their type and provide metadata that tells Angular how to use them.
+
+The metadata for a component class associates it with a template that defines a view. A template combines ordinary HTML with Angular directives and binding markup that allow Angular to modify the HTML before rendering it for display.
+
+The metadata for a service class provides the information Angular needs to make it available to components through dependency injection (DI)
+
+An application's components typically define many views, arranged hierarchically. Angular provides the Router service to help you define navigation paths among views. The router provides sophisticated in-browser navigational capabilities.
+### **Fundamentals de JavaScript**
 
 1. **Sintaxis y Operadores**: Cómo se escriben las instrucciones, cómo se usan los operadores aritméticos, lógicos, etc.
 2. **Tipos de Datos**: Números, cadenas de texto, booleanos, **`null`**, **`undefined`**, y otros.
