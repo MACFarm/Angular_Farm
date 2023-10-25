@@ -61,4 +61,11 @@ An application's components typically define many views, arranged hierarchically
    1.15 Modules
    1.16 JavaScript JSON
    1.17 JavaScript Reserved Words
+
+      1. **Callbacks**: El concepto básico detrás de la asincronía en JavaScript.
+2. **Promesas**: Un enfoque más moderno para manejar la asincronía.
+3. **`async/await`**: La forma más nueva y legible de manejar operaciones asíncronas.
+1. **ES6+ Características**: Cosas como **`let/const`**, arrow functions, destructuring, etc.
+2. **APIs Web**: Fetch, Local Storage, etc.
+3. **Testing**: Conocimientos básicos en pruebas con Jest o Mocha.
 */
