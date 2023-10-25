@@ -42,3 +42,23 @@ An application's components typically define many views, arranged hierarchically
 2. **APIs Web**: Fetch, Local Storage, etc.
 3. **Testing**: Conocimientos básicos en pruebas con Jest o Mocha.
 */
+/*
+1. Fundamentos de JavaScript
+   1.1. Javascript Keywords
+   1.2 Data types
+   1.3. Javascript Functions
+   1.4 Objects
+   1.5 Event
+   1.6 Strings
+   1.7 Arrays
+   1.8 For, For in, For Of, For Each, While
+   1.9 Iterating
+   1.10 Maps
+   1.11 JavaScript Errors
+   1.12 This
+   1.13 Arrow functions
+   1.14 Clases, Herencia y Polimorfismo
+   1.15 Modules
+   1.16 JavaScript JSON
+   1.17 JavaScript Reserved Words
+*/
